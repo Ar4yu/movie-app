@@ -1,40 +1,34 @@
 Author: Aaryaman Jaising
 
-# 🎬 MovieFinder
+# MovieFinder
 
 A sleek and intuitive movie discovery app built with **React + Vite**, styled with **Tailwind CSS**, and powered by the **TMDB API** and **Appwrite**. The app allows users to search for movies, explore trending titles, and get simple recommendations—all within a fast, modern UI.
 
-![App Screenshot](./public/screenshot.png) <!-- Replace with actual image path or URL -->
+[Live App](https://your-vercel-url.vercel.app)  
+[GitHub Repo](https://github.com/Ar4yu/movie-app)
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Live App](https://your-vercel-url.vercel.app)  
-📁 [GitHub Repo](https://github.com/Ar4yu/movie-app)
-
----
-
-## 🎓 Based On
+## Based On
 
 This project was inspired by and partially based on a tutorial by **JavaScript Mastery**:
 
-📺 [Build and Deploy a React Movie App | JavaScript Mastery (YouTube)](https://www.youtube.com/watch?v=dCLhUialKPQ)
+[Build and Deploy a React Movie App | JavaScript Mastery (YouTube)](https://www.youtube.com/watch?v=dCLhUialKPQ)
 
-> I followed this tutorial as a learning resource and built upon it with my own features, styling, and deployment setup.
+> I followed this tutorial as a learning resource.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The app fetches movie data from the [TMDB API](https://www.themoviedb.org/documentation/api) and allows users to:
 
-- 🔍 Search for movies by title
-- 🌟 View trending/popular movies
-- 💡 Get movie card details (poster, rating, summary, etc.)
-- 📈 Track searched movies via Appwrite (optional backend)
+- Search for movies by title
+- View trending/popular movies
+- Get movie card details (poster, rating, summary, etc.)
+- Track searched movies via Appwrite (optional backend)
 
-### 📈 Simple Trending Algorithm
+### Simple Trending Algorithm
 
 The **trending movies** section pulls data from a backend (Appwrite), which tracks how often a movie appears in a user’s search. The process is:
 
@@ -47,17 +41,17 @@ The **trending movies** section pulls data from a backend (Appwrite), which trac
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔍 Real-time debounced search
-- 🎯 TMDB-powered discover and search APIs
-- 🧾 Appwrite backend logging (basic recommendation engine)
-- ⚡ Fast development with Vite and React
-- 📱 Responsive layout using Tailwind CSS
+- Real-time debounce search
+- TMDB-powered discover and search APIs
+- Appwrite backend logging (basic recommendation engine)
+- Fast development with Vite and React
+- Responsive layout using Tailwind CSS
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Tool         | Purpose                              |
 | ------------ | ------------------------------------ |
@@ -69,7 +63,7 @@ The **trending movies** section pulls data from a backend (Appwrite), which trac
 
 ---
 
-## 🛠️ Environment Variables
+## Environment Variables
 
 ```env
 VITE_TMDB_API_KEY=your_tmdb_v3_api_key
