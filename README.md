@@ -4,7 +4,7 @@ Author: Aaryaman Jaising
 
 A sleek and intuitive movie discovery app built with **React + Vite**, styled with **Tailwind CSS**, and powered by the **TMDB API** and **Appwrite**. The app allows users to search for movies, explore trending titles, and get simple recommendations—all within a fast, modern UI.
 
-[Live App](https://your-vercel-url.vercel.app)  
+[Live App](https://movie-app-five-sage-66.vercel.app)  
 [GitHub Repo](https://github.com/Ar4yu/movie-app)
 
 ---
