@@ -11,7 +11,7 @@ A sleek and intuitive movie discovery app built with **React + Vite**, styled wi
 
 ## Based On
 
-This project was inspired by and partially based on a tutorial by **JavaScript Mastery**:
+This project was inspired by and based on a tutorial by **JavaScript Mastery**:
 
 [Build and Deploy a React Movie App | JavaScript Mastery (YouTube)](https://www.youtube.com/watch?v=dCLhUialKPQ)
 
